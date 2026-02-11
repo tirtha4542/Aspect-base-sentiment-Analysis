@@ -1,0 +1,23 @@
+artifact_path: file:E:/capstone_project_1/mlruns/848636209998637174/models/m-acf501555c1646c2aae80ed1a2433cfb/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.13.0
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.10.0+cpu
+mlflow_version: 3.9.0
+model_id: m-acf501555c1646c2aae80ed1a2433cfb
+model_size_bytes: 10211923
+model_uuid: m-acf501555c1646c2aae80ed1a2433cfb
+prompts: null
+run_id: 6d785c55ac13405c93a8ef41684875a7
+utc_time_created: '2026-02-11 17:33:13.251002'

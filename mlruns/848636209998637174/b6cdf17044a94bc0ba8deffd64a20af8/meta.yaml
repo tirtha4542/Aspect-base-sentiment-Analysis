@@ -1,0 +1,14 @@
+artifact_uri: file:E:/capstone_project_1/mlruns/848636209998637174/b6cdf17044a94bc0ba8deffd64a20af8/artifacts
+end_time: 1770829209845
+entry_point_name: ''
+experiment_id: '848636209998637174'
+lifecycle_stage: active
+run_id: b6cdf17044a94bc0ba8deffd64a20af8
+run_name: nimble-midge-14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770829186848
+status: 3
+tags: []
+user_id: Tirtha Bepary

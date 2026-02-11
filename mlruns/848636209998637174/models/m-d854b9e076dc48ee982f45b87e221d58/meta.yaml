@@ -1,0 +1,10 @@
+artifact_location: file:E:/capstone_project_1/mlruns/848636209998637174/models/m-d854b9e076dc48ee982f45b87e221d58/artifacts
+creation_timestamp: 1770831097244
+experiment_id: '848636209998637174'
+last_updated_timestamp: 1770831108592
+model_id: m-d854b9e076dc48ee982f45b87e221d58
+model_type: null
+name: absa_model
+source_run_id: 00ddfc6b0c2248bea647c88f0cd94560
+status: 2
+status_message: null

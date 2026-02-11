@@ -1,0 +1,6 @@
+destination_id: m-acf501555c1646c2aae80ed1a2433cfb
+destination_type: MODEL_OUTPUT
+source_id: m-acf501555c1646c2aae80ed1a2433cfb
+source_type: RUN_OUTPUT
+step: 0
+tags: {}

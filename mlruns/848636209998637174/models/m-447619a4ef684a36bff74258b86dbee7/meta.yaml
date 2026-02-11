@@ -1,0 +1,10 @@
+artifact_location: file:E:/capstone_project_1/mlruns/848636209998637174/models/m-447619a4ef684a36bff74258b86dbee7/artifacts
+creation_timestamp: 1770830885651
+experiment_id: '848636209998637174'
+last_updated_timestamp: 1770830898472
+model_id: m-447619a4ef684a36bff74258b86dbee7
+model_type: null
+name: absa_lstm_v1
+source_run_id: d4b3bec48c874ba1a772f9aa844e27c9
+status: 2
+status_message: null
